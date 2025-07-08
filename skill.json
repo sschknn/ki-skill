@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "ki gespräch",
+      "invocationName": "k i gespraech",
       "intents": [
         {
           "name": "HeyKIIntent",
@@ -12,9 +12,9 @@
             }
           ],
           "samples": [
-            "hey ki {frage}",
-            "hey ki, {frage}",
-            "hey ki"
+            "hey k i {frage}",
+            "hey k i, {frage}",
+            "hey k i"
           ]
         },
         {

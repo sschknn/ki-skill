@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "ask-sdk-core": "^2.0.0"
+    "ask-sdk-core": "^2.0.0",
+    "axios": "^1.10.0"
   }
 }
