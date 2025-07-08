@@ -1,0 +1,28 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "ki gespräch",
+      "intents": [
+        {
+          "name": "HeyKIIntent",
+          "slots": [
+            {
+              "name": "frage",
+              "type": "AMAZON.SearchQuery"
+            }
+          ],
+          "samples": [
+            "hey ki {frage}",
+            "hey ki, {frage}",
+            "hey ki"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  }
+}
